@@ -39,4 +39,5 @@ Um analisador de dados que você **escuta**. Ele transforma planilhas CSV em mú
 
 ### 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brunno%20Barbour%20Basso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-barbour-basso-546882447/)
 [![GitHub](https://img.shields.io/badge/GitHub-behekaa-181717?style=for-the-badge&logo=github)](https://github.com/behekaa)

@@ -13,10 +13,13 @@
 - 🐍 **Python** é a linguagem que mais domino
 - 🌱 Aprendendo e construindo projetos para colocar a teoria em prática
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
 #### [🎧 Sinestesia](https://github.com/behekaa/sinestesia)
 Um analisador de dados que você **escuta**. Ele transforma planilhas CSV em música, com cada coluna virando uma melodia e os pontos fora da curva virando batidas. Também desenha um gráfico sincronizado com o som e gera um resumo automático em português com tendências, anomalias e correlações. Roda inteiro no navegador, sem servidor.
+
+#### [🌿 Jardim da Calma](https://github.com/behekaa/jogo-bem-estar)
+Um jogo de relaxamento e bem-estar pensado para pessoas idosas, com atividades tranquilas de respiração, jardim, memórias, atenção e gratidão. Tem letras grandes, narração em voz alta e pode ser instalado no celular como aplicativo. Funciona sem conta e sem internet, e nada é enviado para fora do aparelho.
 
 ### 🛠️ Tecnologias
 

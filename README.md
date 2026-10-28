@@ -31,6 +31,12 @@ Um analisador de dados que você **escuta**. Ele transforma planilhas CSV em mú
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🌎 Idiomas
+
+- 🇧🇷 Português: fluente
+- 🇺🇸 Inglês: fluente
+- 🇪🇸 Espanhol: intermediário
+
 ### 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-behekaa-181717?style=for-the-badge&logo=github)](https://github.com/behekaa)
